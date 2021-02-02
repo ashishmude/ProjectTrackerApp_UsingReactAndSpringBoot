@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckpointTasks should render CheckpointTasks 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "height": 300,
+        "width": "100%",
+      }
+    }
+  >
+    <Memo
+      checkboxSelection={false}
+      columns={
+        Array [
+          Object {
+            "field": "taskName",
+            "flex": 1,
+            "headerName": "Task",
+          },
+          Object {
+            "field": "expectedCompletionDate",
+            "flex": 1,
+            "headerName": "ETA",
+          },
+          Object {
+            "field": "comments",
+            "flex": 1,
+            "headerName": "Comments",
+          },
+          Object {
+            "field": "completed",
+            "headerName": "Status",
+            "valueFormatter": [Function],
+            "width": 160,
+          },
+        ]
+      }
+      hideFooter={true}
+      pageSize={5}
+    />
+  </div>,
+]
+`;

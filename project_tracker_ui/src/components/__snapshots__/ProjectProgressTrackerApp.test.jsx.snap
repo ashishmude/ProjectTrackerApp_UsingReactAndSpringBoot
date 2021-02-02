@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProjectProgressTrackerApp should render ProjectProgressTrackerApp 1`] = `
+Array [
+  <ProjectProgressTrackerApp
+    classes={
+      Object {
+        "titleBar": "ProjectProgressTrackerApp-titleBar-1",
+      }
+    }
+  />,
+]
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListCheckpointsComponent should render ListCheckpointsComponent 1`] = `
+Array [
+  <ListCheckpointsComponent
+    classes={
+      Object {
+        "accordionDetails": "ListCheckpointsComponent-accordionDetails-5",
+        "accordionSummary": "ListCheckpointsComponent-accordionSummary-2",
+        "chip": "ListCheckpointsComponent-chip-1",
+        "container": "ListCheckpointsComponent-container-3",
+        "description": "ListCheckpointsComponent-description-6",
+        "title": "ListCheckpointsComponent-title-4",
+      }
+    }
+  />,
+]
+`;
