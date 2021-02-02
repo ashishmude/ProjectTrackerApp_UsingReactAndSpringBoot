@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "checkpointName": "Requirements Gathering",
+    "description": "This phase involves gathering entire requirement which will help to decide the scope of the project",
+    "projectId": 1,
+    "completionPercentage": 75.0,
+    "taskList": [
+      {
+        "id": 1,
+        "taskName": "Meetings with stakeholder",
+        "expectedCompletionDate": "25-01-2021",
+        "checkpointId": 1,
+        "comments": "Finished",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "taskName": "Technology discussions",
+        "expectedCompletionDate": "05-02-2021",
+        "checkpointId": 1,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "taskName": "Documenting",
+        "expectedCompletionDate": "Completed",
+        "checkpointId": 1,
+        "comments": "Completed and signed off",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "taskName": "Approvals",
+        "expectedCompletionDate": "Done",
+        "checkpointId": 1,
+        "comments": "Received all approvals",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "checkpointName": "Planning",
+    "description": "This phase involves creating solution for application, sign off, etc",
+    "projectId": 1,
+    "completionPercentage": 33.33,
+    "taskList": [
+      {
+        "id": 5,
+        "taskName": "Architectural Diagram",
+        "expectedCompletionDate": "05-02-2021",
+        "checkpointId": 2,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 6,
+        "taskName": "Solution sign-off",
+        "expectedCompletionDate": "TBD",
+        "checkpointId": 2,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 7,
+        "taskName": "Resourcing",
+        "expectedCompletionDate": "01-02-2021",
+        "checkpointId": 2,
+        "comments": "Finalised resources",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "checkpointName": "Implementation",
+    "description": "This phase involves development, implementation, etc tasks.",
+    "projectId": 1,
+    "completionPercentage": 16.67,
+    "taskList": [
+      {
+        "id": 8,
+        "taskName": "High Level Design",
+        "expectedCompletionDate": "01-02-2021",
+        "checkpointId": 3,
+        "comments": "HLD Signed off",
+        "completed": true
+      },
+      {
+        "id": 9,
+        "taskName": "Development Completion",
+        "expectedCompletionDate": "01-07-2021",
+        "checkpointId": 3,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 10,
+        "taskName": "Testing Completion",
+        "expectedCompletionDate": "TBD",
+        "checkpointId": 3,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 11,
+        "taskName": "Documentation",
+        "expectedCompletionDate": "01-05-2021",
+        "checkpointId": 3,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 12,
+        "taskName": "Testing and Business Sign off",
+        "expectedCompletionDate": "01-09-2021",
+        "checkpointId": 3,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 13,
+        "taskName": "Production implementation",
+        "expectedCompletionDate": "25-09-2021",
+        "checkpointId": 3,
+        "comments": "In Progress",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "checkpointName": "Handover/Training and Closure",
+    "description": "This phase involves project handover/closure and training to end user(s).",
+    "projectId": 1,
+    "completionPercentage": 0.0,
+    "taskList": [
+      {
+        "id": 14,
+        "taskName": "Project Handover",
+        "expectedCompletionDate": "01-10-2021",
+        "checkpointId": 4,
+        "comments": "In Progress",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "taskName": "End User Training",
+        "expectedCompletionDate": "01-11-2021",
+        "checkpointId": 4,
+        "comments": "In Progress",
+        "completed": false
+      }
+    ]
+  }
+]
